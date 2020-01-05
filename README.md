@@ -1,24 +1,7 @@
-# app
+# How to run my App Frontend:
 
-## Project setup
-```
-npm install
-```
+1. git clone https://github.com/NicholasRoy96/User-Management-Frontend.git
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. npm install
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. npm start
